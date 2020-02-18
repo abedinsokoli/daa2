@@ -1,0 +1,95 @@
+.navbar{
+	z-index: 10;
+	position:sticky;
+	top: 0;
+}
+.navbar-brand img{
+    height:100px!important;
+}
+
+.dwonloadsect{
+	background-repeat:no-repeat;
+	background-size:cover;
+
+
+}
+body{
+	background-color:#F5F5F5;
+	background-size:cover;
+	margin:0px;
+	padding:0px;
+	top:0px;
+}
+
+.content {
+padding-top:20px;
+}
+.download{
+text-decoration:none;
+	border:outset #27FFFF;
+	box-shadow:0px 5px 15px 0px;
+	font-size:20px;
+	text-decoration:none;
+	color: #1A1C1C;
+	border-radius:3%;
+	padding:10px 20px 10px 20px;
+	
+	background-color:#27FFFF;
+}
+.line{
+	font-size:33px;
+	margin:10px 0px 0px 325px;
+}
+.line::after{
+	content: '';
+	margin-left:9px;
+	background-color:#27FFFF;
+	width:300px;
+	height:3px;
+	display:block;
+
+
+}
+.dowload-section{
+
+	margin-left:100px;
+	padding-bottom:10px;
+	padding-bottom: 10px;
+}
+#bg11{
+	margin:-300px 275px;
+	height:500px;
+
+}
+.section2{
+margin-top:-189px;
+	margin-left:700px;
+}
+.ab3{
+	box-shadow:0px 10px 25px 0px;
+	margin-left:180px;
+	margin-top:60px;
+	height:300px;
+
+}
+.ab3:hover{
+
+	margin-left:150px;
+	box-shadow: none;
+	transition:1s;
+	height:350px;
+}
+h4{
+	padding-top:8px;
+	padding-bottom:8px;
+	font-size:30px;
+}
+.download:hover{
+	color:black;
+	border-color: #40E0D0;
+	background-color: #40E0D0;
+	text-decoration:none;
+	box-shadow:none;
+	font-size:150%;
+	transition:1s;
+}

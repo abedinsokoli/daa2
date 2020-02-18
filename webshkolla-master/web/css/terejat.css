@@ -1,0 +1,32 @@
+.about-bottom{
+	padding-top:300px;
+}
+.lajmet{
+	padding-bottom:10px;
+	padding-top:20px;
+
+}
+#lajmrim{
+
+	text-align:center;
+
+}
+.paragrafi{
+	
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+}
+span{
+	font-size:40%;
+
+}
+span:before{
+	color:green;
+	content:"\2713";
+
+}
+.paragrafi:hover{
+	box-shadow:5px 5px 10px 0px;
+	transition:0.5s;
+}
